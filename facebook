@@ -150,9 +150,9 @@ INSERT INTO ABOUT VALUES(100,1,'alex','my bio is here','none','single',null,'Lon
 INSERT INTO ABOUT VALUES(200,2,'ayşe','i have no bio','Muslim','married',3,'Havelsan','Türkiye','Ankara','İzmir');
 INSERT INTO ABOUT VALUES(300,3,'Jonh', 'backpacker', 'Christian', 'married',2, 'city hospital', 'USA', 'california', 'california');
 INSERT INTO ABOUT VALUES(400,4,'Sedanur', 'computer engineer', 'Muslim', 'single', 5,'silicon valley', 'Türkiye', 'İzmir', 'çorum');
-INSERT INTO ABOUT VALUES(500,5,'Özge', 'babasının prensesi', 'Hristiyan', 'has a relationship', 4,'vakıf bank', 'Kıbrıs', 'girne', 'ardahan');
+INSERT INTO ABOUT VALUES(500,5,'Grushenka', 'no bio', 'Judaism', 'has a relationship', 4,'vakıf bank', 'Kıbrıs', 'girne', 'ankara');
 INSERT INTO ABOUT VALUES(600,6,'alexa', 'fashion', 'none', 'single',6, 'Alexa chung', 'İngiltere', 'Londra', 'birmingham');
-INSERT INTO ABOUT VALUES(700,7,'tomVercetti', 'gameplayer', 'juw' ,'got divorced',null, null, 'USA', 'teksas', 'new york');
+INSERT INTO ABOUT VALUES(700,7,'tomVercetti', 'gameplayer', 'Judaism' ,'got divorced',null, null, 'USA', 'teksas', 'new york');
 INSERT INTO ABOUT VALUES(800,8,'ali', null, 'agnostik', 'dul',null, 'aselsan', 'Türkiye', 'ankara', 'ankara');
 INSERT INTO ABOUT VALUES(900,9,'ayşegül', 'tatilde', 'kararsız', 'single', null, null,'türkiye', 'istanbul', 'sincan');
 INSERT INTO ABOUT VALUES(1000,10,'Hakan', null, 'müslüman', 'evli',1, 'plak şirketi', 'Türkiye', 'muş', 'van');
